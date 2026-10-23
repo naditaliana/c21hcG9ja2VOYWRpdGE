@@ -12,59 +12,55 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nadita =====
-[1]Nadita      |09:59:57 | 22-10-2026| login OK @naditaliana | score=1700 rank=4274
-[1]Nadita      |09:59:57 | 22-10-2026| serverTime=2026-10-22T09:59:57.000Z local=2026-10-22T09:59:57.675Z
+[1]Nadita      |09:55:32 | 23-10-2026| login OK @naditaliana | score=1800 rank=4117
+[1]Nadita      |09:55:32 | 23-10-2026| serverTime=2026-10-23T09:55:32.000Z local=2026-10-23T09:55:32.575Z
 --> [1]Nadita menjalankan: Claim Daily
-[1]Nadita      |09:59:59 | 22-10-2026| daily: OK +10 poin score=1710
---> [1]Nadita menjalankan: Auto All Tasks (9 pending)
-[1]Nadita      |10:00:01 | 22-10-2026| [1/9] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/naditaliana/status/2113208130651849060
-[1]Nadita      |10:00:01 | 22-10-2026| delay 10s...
-[1]Nadita      |10:00:13 | 22-10-2026| [2/9] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/naditaliana/status/2113208211144238583
-[1]Nadita      |10:00:13 | 22-10-2026| delay 10s...
-[1]Nadita      |10:00:25 | 22-10-2026| [3/9] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/naditaliana/status/2113208212500896946
-[1]Nadita      |10:00:25 | 22-10-2026| delay 10s...
-[1]Nadita      |10:00:37 | 22-10-2026| [4/9] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/naditaliana/status/2113208334255786356
-[1]Nadita      |10:00:37 | 22-10-2026| delay 10s...
-[1]Nadita      |10:00:49 | 22-10-2026| [5/9] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/naditaliana/status/2113208464606322336
-[1]Nadita      |10:00:49 | 22-10-2026| delay 10s...
-[1]Nadita      |10:01:01 | 22-10-2026| [6/9] a3b32468 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/naditaliana/status/2113208481335072589
-[1]Nadita      |10:01:01 | 22-10-2026| delay 10s...
-[1]Nadita      |10:01:14 | 22-10-2026| [7/9] cf4945ad (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/naditaliana/status/2113208750537904382
-[1]Nadita      |10:01:14 | 22-10-2026| delay 10s...
-[1]Nadita      |10:01:26 | 22-10-2026| [8/9] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/naditaliana/status/2113208516313110082
-[1]Nadita      |10:01:26 | 22-10-2026| delay 10s...
-[1]Nadita      |10:01:38 | 22-10-2026| [9/9] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/naditaliana/status/2113208615798436396
-[1]Nadita      |10:01:38 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nadita      |10:01:40 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/naditaliana/status/2113208649292226550
+[1]Nadita      |09:55:33 | 23-10-2026| daily: OK +10 poin score=1810
+--> [1]Nadita menjalankan: Auto All Tasks (7 pending)
+[1]Nadita      |09:55:34 | 23-10-2026| [1/7] b1de7845 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/naditaliana/status/2113569588570832125
+[1]Nadita      |09:55:34 | 23-10-2026| delay 10s...
+[1]Nadita      |09:55:46 | 23-10-2026| [2/7] 8598d58b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/naditaliana/status/2113569661315266856
+[1]Nadita      |09:55:46 | 23-10-2026| delay 10s...
+[1]Nadita      |09:55:58 | 23-10-2026| [3/7] 55d1cc44 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709
+[1]Nadita      |09:55:58 | 23-10-2026| delay 10s...
+[1]Nadita      |09:56:09 | 23-10-2026| [4/7] 007fb4bc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/naditaliana/status/2113569797372936517
+[1]Nadita      |09:56:09 | 23-10-2026| delay 10s...
+[1]Nadita      |09:56:21 | 23-10-2026| [5/7] cd349eb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/naditaliana/status/2113569595346414799
+[1]Nadita      |09:56:21 | 23-10-2026| delay 10s...
+[1]Nadita      |09:56:33 | 23-10-2026| [6/7] 2669d576 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/naditaliana/status/2113569750583043666
+[1]Nadita      |09:56:33 | 23-10-2026| delay 10s...
+[1]Nadita      |09:56:45 | 23-10-2026| [7/7] 352bca6d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/naditaliana/status/2113569719866478710
+[1]Nadita      |09:56:45 | 23-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nadita      |09:56:47 | 23-10-2026| [1/1] b1de7845 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113277810857099 | proof=https://x.com/naditaliana/status/2113569985975486089
 --> [1]Nadita menjalankan: Watch Anime
-[1]Nadita      |10:01:42 | 22-10-2026| watch: semua video sudah completed
+[1]Nadita      |09:56:48 | 23-10-2026| watch: semua video sudah completed
 --> [1]Nadita menjalankan: Read Article
-[1]Nadita      |10:01:43 | 22-10-2026| news: 27/27 artikel selesai dibaca
-[1]Nadita      |10:01:44 | 22-10-2026| mint eligibility: {"userId":"1680408175575732225","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Nadita      |10:01:51 | 22-10-2026| news road-to-mint-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
-[1]Nadita      |10:01:59 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
-[1]Nadita      |10:02:09 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Nadita      |09:56:49 | 23-10-2026| news: 27/27 artikel selesai dibaca
+[1]Nadita      |09:56:50 | 23-10-2026| mint eligibility: {"userId":"1680408175575732225","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Nadita      |09:56:55 | 23-10-2026| news road-to-mint-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Nadita      |09:57:03 | 23-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Nadita      |09:57:11 | 23-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Nadita menjalankan: Quiz Anime
-[1]Nadita      |10:02:12 | 22-10-2026| quiz ep1: sudah dijawab
-[1]Nadita      |10:02:12 | 22-10-2026| quiz ep2: sudah dijawab
-[1]Nadita      |10:02:12 | 22-10-2026| quiz ep3: sudah dijawab
-[1]Nadita      |10:02:12 | 22-10-2026| quiz ep4: sudah dijawab
-[1]Nadita      |10:02:12 | 22-10-2026| quiz ep5: sudah dijawab
-[1]Nadita      |10:02:12 | 22-10-2026| quiz ep6: sudah dijawab
+[1]Nadita      |09:57:13 | 23-10-2026| quiz ep1: sudah dijawab
+[1]Nadita      |09:57:13 | 23-10-2026| quiz ep2: sudah dijawab
+[1]Nadita      |09:57:13 | 23-10-2026| quiz ep3: sudah dijawab
+[1]Nadita      |09:57:13 | 23-10-2026| quiz ep4: sudah dijawab
+[1]Nadita      |09:57:13 | 23-10-2026| quiz ep5: sudah dijawab
+[1]Nadita      |09:57:13 | 23-10-2026| quiz ep6: sudah dijawab
 --> [1]Nadita menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nadita      |10:02:14 | 22-10-2026| music: kedua misi sudah tercapai, stop
-[1]Nadita      |10:02:14 | 22-10-2026| mission music-listens-10: sudah diklaim
-[1]Nadita      |10:02:14 | 22-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nadita      |10:02:14 | 22-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nadita      |09:57:15 | 23-10-2026| music: kedua misi sudah tercapai, stop
+[1]Nadita      |09:57:15 | 23-10-2026| mission music-listens-10: sudah diklaim
+[1]Nadita      |09:57:15 | 23-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nadita      |09:57:15 | 23-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nadita menjalankan: Claim Missions
-[1]Nadita      |10:02:15 | 22-10-2026| mission music-listens-10: sudah diklaim
-[1]Nadita      |10:02:15 | 22-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nadita      |10:02:15 | 22-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nadita      |09:57:16 | 23-10-2026| mission music-listens-10: sudah diklaim
+[1]Nadita      |09:57:16 | 23-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nadita      |09:57:16 | 23-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nadita menjalankan: Check Eligibility
 
 --- eligibility [1]Nadita ---
-  @naditaliana | score=1700 rank=4274
-  tasks    [##################--] 77/86
+  @naditaliana | score=1800 rank=4117
+  tasks    [##############------] 15/22
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -75,14 +71,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Nadita menjalankan: Read Manga
-[1]Nadita      |10:02:19 | 22-10-2026| manga: 0/13 chapter belum completed
+[1]Nadita      |09:57:19 | 23-10-2026| manga: 0/13 chapter belum completed
 --> [1]Nadita menjalankan: Get Gift
-[1]Nadita      |10:02:20 | 22-10-2026| gift: 0/4 belum diterima
+[1]Nadita      |09:57:20 | 23-10-2026| gift: 0/4 belum diterima
 --> [1]Nadita menjalankan: Setup Profile
-[1]Nadita      |10:02:20 | 22-10-2026| profile: bio="https://x.com/naditaliana" fav=kagura rewardAt=1791684522
-[1]Nadita      |10:02:20 | 22-10-2026| profile: bonus sudah diklaim, skip
+[1]Nadita      |09:57:20 | 23-10-2026| profile: bio="https://x.com/naditaliana" fav=kagura rewardAt=1791684522
+[1]Nadita      |09:57:20 | 23-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Nadita menjalankan: Bind Wallet
-[1]Nadita      |10:02:21 | 22-10-2026| wallet: sudah terikat Gy3M4hCCtv... (solana)
+[1]Nadita      |09:57:20 | 23-10-2026| wallet: sudah terikat Gy3M4hCCtv... (solana)
 
 == RINGKASAN ==
-- Nadita: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Nadita: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
